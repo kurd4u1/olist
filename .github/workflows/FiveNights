@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd â€¦">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://pub-a94cde41b2b74246925a51d3c7aeaf6f.r2.dev/1397004146/a7380efb-0316-4bc7-ac23-aa786016e58c.ipa</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>url</key>
+<string>https://kurd4u.com/photo/fv</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>full-size-image</string>
+<key>url</key>
+<string>https://kurd4u.com/photo/fv</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.scottgames.fivenights</string>
+<key>bundle-version</key>
+<string>1.1.4</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>Five Nights at Freddy's</string>
+</dict> 
+</dict>
+</array>
+</dict>
+</plist>
